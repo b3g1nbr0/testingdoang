@@ -1,0 +1,3 @@
+Untuk mendownload file spesifik maka gunakan perintah berikut:
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/b3g1nbr0/testingdoang/main/none.txt" -OutFile "none.txt"
+Itu adalah contoh mendownload file none.txt
